@@ -1,0 +1,31 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tensorflow = "*"
+tensorflow-datasets = "*"
+matplotlib = "*"
+scipy = "*"
+tensorflow-hub = "*"
+pandas = "*"
+wfdb = "*"
+biosppy = "*"
+hrv-analysis = "*"
+peakutils = "*"
+neurokit2 = "*"
+librosa = "*"
+soundfile = "*"
+pillow = "*"
+notebook = "*"
+seaborn = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.8"
+
+[pipenv]
+allow_prereleases = true
