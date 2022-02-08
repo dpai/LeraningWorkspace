@@ -20,6 +20,8 @@ soundfile = "*"
 pillow = "*"
 notebook = "*"
 seaborn = "*"
+altair = "*"
+vega-datasets = "*"
 
 [dev-packages]
 ipykernel = "*"
