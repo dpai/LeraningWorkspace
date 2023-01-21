@@ -21,7 +21,6 @@ pillow = "*"
 notebook = "*"
 seaborn = "*"
 altair = "*"
-altair = "*"
 vega-datasets = "*"
 
 [dev-packages]
