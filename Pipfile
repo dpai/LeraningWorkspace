@@ -26,6 +26,7 @@ fastapi = "*"
 uvicorn = "*"
 scikit-image = "*"
 plotly = "*"
+lightgbm = "*"
 
 [dev-packages]
 ipykernel = "*"
